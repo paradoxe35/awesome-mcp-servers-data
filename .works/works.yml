@@ -1,8 +1,8 @@
-company_name: Acme
+company_name: Awesome MCP Servers
 content_table: true
 item_name: Item
 items_name: Items
-copyright_year: 2025
+copyright_year: 2026
 metadata:
   last_request_data:
     source_urls: []
@@ -20,8 +20,7 @@ metadata:
     badge_evaluation_enabled: false
     website_repository_creation_method: create-using-template
     name: Awesome MCP Servers
-    prompt: A curated list of the best MCP Servers, featuring top solutions,
-      libraries, tools, and more.
+    prompt: A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more.
     initial_categories: []
     priority_categories: []
     target_keywords: []
@@ -31,8 +30,7 @@ metadata:
       target_items: 50
       capture_screenshots: false
     _processedPluginConfig: {}
-  initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
-    libraries, tools, and more.
+  initial_prompt: A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more.
 version: 0.1.50
 name: Awesome MCP Servers
 providers:
@@ -41,8 +39,18 @@ providers:
   contentExtractor: local-content-extractor
   pipeline: agent-pipeline
 website_repo: ever-works/awesome-mcp-servers-website
-initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
-  libraries, tools, and more.
+initial_prompt: A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more.
 deployProvider: vercel
 activity_sync:
   mode: pull
+company_website: https://mcpserver.ever.works
+settings:
+  homepage:
+    hero_enabled: true
+    hero_badge_text: Model Context Protocol
+    hero_title: Discover the Best
+    hero_title_gradient: MCP Servers
+    hero_description: A curated directory of Model Context Protocol servers — cloud and DevOps, databases, code execution, data access, file management, monitoring and more — so your AI agents and assistants can connect to the tools they need.
+logo:
+  logo_image: https://raw.githubusercontent.com/ever-works/awesome-mcp-servers-data/master/pages/logo-light.png
+  logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-mcp-servers-data/master/pages/logo-dark.png
