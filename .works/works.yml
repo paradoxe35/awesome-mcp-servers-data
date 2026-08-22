@@ -51,6 +51,11 @@ settings:
     hero_title: Discover the Best
     hero_title_gradient: MCP Servers
     hero_description: A curated directory of Model Context Protocol servers — cloud and DevOps, databases, code execution, data access, file management, monitoring and more — so your AI agents and assistants can connect to the tools they need.
+  monetization:
+    sponsor_ads:
+      currency: USD
+      weekly_price: 100
+      monthly_price: 300
 logo:
   logo_image: https://raw.githubusercontent.com/ever-works/awesome-mcp-servers-data/master/pages/logo-light.png
   logo_image_dark: https://raw.githubusercontent.com/ever-works/awesome-mcp-servers-data/master/pages/logo-dark.png
