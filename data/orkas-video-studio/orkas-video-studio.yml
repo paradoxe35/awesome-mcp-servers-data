@@ -1,0 +1,15 @@
+name: OrkasVideoStudio
+description: MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing and editing videos from editable plan.json timelines.
+source_url: https://github.com/Orkas-AI/Orkas-VideoStudio
+category: Media Processing Mcp Servers
+tags:
+  - video
+  - typescript
+  - local-first
+featured: false
+markdown: |
+  ## Overview
+
+  MIT-licensed, local-first TypeScript CLI and MCP toolkit for composing and editing videos from editable plan.json timelines.
+
+  Build from source, then register `node /path/to/Orkas-VideoStudio/packages/mcp/dist/index.js` as a stdio MCP server. Composition and editing use local tools; optional provider-backed generation uses the user's own keys.
